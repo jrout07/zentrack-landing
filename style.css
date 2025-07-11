@@ -1,0 +1,162 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 40px;
+  background-color: #ffffff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+  color: #4c6ef5;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 25px;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: #555;
+  font-weight: 500;
+}
+
+.hero {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 80px 60px;
+  background: #eef3fb;
+  flex-wrap: wrap;
+}
+.hero-image {
+  width: 400px;      
+  height: auto;
+  border-radius: 12px;
+  margin-top: 20px;
+}
+
+
+.hero-content {
+  max-width: 500px;
+}
+
+.hero h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+  color: #2b2e4a;
+}
+
+.hero p {
+  font-size: 18px;
+  margin-bottom: 30px;
+  color: #555;
+}
+
+.hero-image {
+  width: 400px;
+  border-radius: 12px;
+  margin-top: 20px;
+}
+
+.btn {
+  background-color: #4c6ef5;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.features {
+  padding: 60px 40px;
+  text-align: center;
+  background-color: #fff;
+}
+
+.features h2 {
+  font-size: 28px;
+  margin-bottom: 40px;
+}
+
+.feature-grid {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.feature-item {
+  max-width: 280px;
+  text-align: left;
+}
+
+.feature-item h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.feature-item p {
+  font-size: 16px;
+  color: #555;
+}
+
+.app-section {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 60px 40px;
+  background-color: #e6f7f8;
+  flex-wrap: wrap;
+}
+
+.app-text {
+  max-width: 400px;
+}
+
+.app-text h2 {
+  font-size: 26px;
+  margin-bottom: 20px;
+}
+
+.app-text p {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.app-image img {
+  width: 300px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #f1f3f5;
+  padding: 20px 40px;
+  font-size: 14px;
+}
+
+.footer a {
+  margin-left: 15px;
+  color: #555;
+  text-decoration: none;
+}
