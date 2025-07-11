@@ -8,4 +8,4 @@ This project is built using **HTML** and **CSS** and is a great example of a beg
 
 ##  Live Demo
 
-👉 [View Live on Vercel](https://temperature-converter-theta-wheat.vercel.app/)  
+👉 [View Live on Vercel](https://zentrack-landing.vercel.app/)  
