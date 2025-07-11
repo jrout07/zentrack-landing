@@ -8,4 +8,4 @@ This project is built using **HTML** and **CSS** and is a great example of a beg
 
 ##  Live Demo
 
-👉 [View Live on Vercel](https://zentrack-landing.vercel.app/)  
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-blue?style=for-the-badge&logo=vercel)](https://zentrack-landing.vercel.app/)
